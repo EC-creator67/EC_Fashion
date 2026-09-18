@@ -34,7 +34,7 @@ const Navbar = () => {
         {/* Left - Logo */}
         <div>
           <Link to="/" className="text-2xl font-medium">
-            EC-Fashion
+            EC_Fashion
           </Link>
         </div>
         {/* Center - Navigation Link */}
